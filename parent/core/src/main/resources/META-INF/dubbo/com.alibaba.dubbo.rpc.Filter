@@ -1,0 +1,3 @@
+zipkinConsumerDubboFilter=org.navychi.framework.core.config.dubbo.DubboZipkinConsumerFilter
+zipkinProviderDubboFilter=org.navychi.framework.core.config.dubbo.DubboZipkinProviderFilter
+hystrixDubboFilter=org.navychi.framework.core.config.dubbo.DubboHystrixFilter
